@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Jersey de Local Manchester City",
+        "imagen": "JerseyCity.jpg",
+        "precio": 799
+    },
+    {
+        "id": 2,
+        "nombre": "Jersey de Local Inglaterra",
+        "imagen": "JerseyInglaterra.jpg",
+        "precio": 699
+    },
+    {
+        "id": 3,
+        "nombre": "Manopla Béisbol Palomares",
+        "imagen": "ManoplaPro.jpg",
+        "precio": 449
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatos Nike Hypervenom",
+        "imagen": "NikeHypervenom.jpg",
+        "precio": 999
+    },
+    {
+        "id": 5,
+        "nombre": "Short Nike Verde",
+        "imagen": "ShortNike.jpg",
+        "precio": 299
+    },
+    {
+        "id": 6,
+        "nombre": "Zapatos Jordan Ex",
+        "imagen": "ZapatoJordanEx.jpg",
+        "precio": 849
+    },
+    {
+        "id": 7,
+        "nombre": "Zapatos Jordan RH",
+        "imagen": "ZapatoJordanRH.jpg",
+        "precio": 899
+    },
+    {
+        "id": 8,
+        "nombre": "Pera Doble ADN",
+        "imagen": "PeraDoble.jpg",
+        "precio": 649
+    },
+    {
+        "id": 9,
+        "nombre": "Jersey Cavaliers",
+        "imagen": "JerseyCavaliers.jpg",
+        "precio": 749
+    },
+    {
+        "id": 10,
+        "nombre": "Gorra LA Dodgers",
+        "imagen": "GorraDodgers.jpg",
+        "precio": 599
+    },
+    {
+        "id": 11,
+        "nombre": "Guantes de Box Everlast Elite",
+        "imagen": "GuantesBlancos.png",
+        "precio": 949
+    },
+    {
+        "id": 12,
+        "nombre": "Balón de Básquet Adidas Stripe",
+        "imagen": "BalonAdidasStripe.jpg",
+        "precio": 1049
+    },
+    {
+        "id": 13,
+        "nombre": "Protector Bucal Adidas Box",
+        "imagen": "ProtectorAdidas.png",
+        "precio": 159
+    },
+    {
+        "id": 14,
+        "nombre": "Espinilleras Adidas Everlite",
+        "imagen": "EspinillerasAdidas.jpg",
+        "precio": 249
+    },
+    {
+        "id": 15,
+        "nombre": "Balón de Básquet Adidas All Court",
+        "imagen": "BalonAdidasBasquet.jpg",
+        "precio": 899
+    },
+    {
+        "id": 16,
+        "nombre": "Guantes Everlast 8 Oz Entrenamiento",
+        "imagen": "GuantesEverlastAzul.jpg",
+        "precio": 1149
+    },
+    {
+        "id": 17,
+        "nombre": "Jersey Majestic Houston Astros",
+        "imagen": "JerseyAstros.png",
+        "precio": 749
+    },
+    {
+        "id": 18,
+        "nombre": "Pera Profesional Piel Everlast",
+        "imagen": "PeraEverlast.jpg",
+        "precio": 1099
+    }    
+]
